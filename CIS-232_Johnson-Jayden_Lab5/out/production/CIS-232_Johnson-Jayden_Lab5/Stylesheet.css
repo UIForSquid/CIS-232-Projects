@@ -1,0 +1,29 @@
+.root{
+    -fx-background-color: black;
+}
+
+.label{
+
+    -fx-font: 36pt "Impact";
+    -fx-text-fill: #00ff00;
+}
+
+.combo-box{
+
+    -fx-background-color: #00ff00;
+    -fx-text-fill: black;
+    -fx-font: 16pt "Impact";
+    -fx-scale-x: 1.2;
+    -fx-scale-y: 1.2;
+
+}
+
+.button{
+
+    -fx-background-color: #00ff00;
+    -fx-text-fill: black;
+    -fx-scale-y: 1.5;
+    -fx-scale-x: 1.5;
+    -fx-font: 16pt "Impact";
+
+}
